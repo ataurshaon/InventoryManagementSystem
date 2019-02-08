@@ -1,0 +1,17 @@
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\bin\Debug\inventorySystem.exe.config
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\bin\Debug\inventorySystem.exe
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\bin\Debug\inventorySystem.pdb
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form1.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form2.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Properties.Resources.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.csproj.GenerateResource.Cache
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.exe
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.pdb
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form3.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form4.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form5.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form6.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form7.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form8.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.Form9.resources
+C:\Users\SHAON\Documents\Visual Studio 2015\Projects\inventorySystem\inventorySystem\obj\Debug\inventorySystem.csprojResolveAssemblyReference.cache
